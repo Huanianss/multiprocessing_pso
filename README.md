@@ -1,2 +1,3 @@
 # multiprocessing_pso
-parallel optimization(PSO) using multiprocessing
+parallel Particle Swarm Optimization(PSO) using multiprocessing
+it's convenient when the merit function is time consuming
